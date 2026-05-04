@@ -1,4 +1,4 @@
-☕ **OnniCoffee**
+## ☕ OnniCoffee
 
 OnniCoffee is a fictional Nordic coffee roastery and café chain used as an analytics case.
 The focus is on understanding how price, weather, inflation and customer behaviour affect demand and profitability.
